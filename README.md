@@ -1,1 +1,1 @@
-## Fibonnaci sequence in Java
+## Fibonacci sequence in Java
